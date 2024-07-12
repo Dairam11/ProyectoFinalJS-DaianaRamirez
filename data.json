@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "nombre": "Semipermanente",
+        "precio": 3000
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Capping gel",
+        "precio": 4000
+    },
+    
+    {
+        "id": 3,
+        "nombre": "Esculpidas",
+        "precio": 5000
+    }
+]

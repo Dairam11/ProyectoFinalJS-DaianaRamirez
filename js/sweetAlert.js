@@ -1,0 +1,1 @@
+Swal.fire("¡Bienvenido/a By Nails!");
